@@ -13,4 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->I'm a final year student who is passionate about writing code, solving problems, automating stuff, building software and ability to perform well in a team.
+
+<ul>
+  <li>🔭 I’m currently Electrical Engineerig student at NIT Jamshedpur</li>
+  <li>🌱 I'm currently learning full stack development.</li>
+  <li>👯 I’m looking for a software development internship.</li>
+  <li>📫 How to reach me: <a href="https://www.linkedin.com/in/ashutosh-vimal-1a0432216/">LinkedIn</a> </li>
+</ul>
+
