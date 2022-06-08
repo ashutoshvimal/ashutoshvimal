@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <ul>
   <li>🔭 I’m currently Electrical Engineerig student at NIT Jamshedpur</li>
   <li>🌱 I'm currently learning full stack development.</li>
-  <li>👯 I’m looking for a software development internship.</li>
+  <li>👯 I’m looking for a software development Job.</li>
   <li>📫 How to reach me: <a href="https://www.linkedin.com/in/ashutosh-vimal-1a0432216/">LinkedIn</a> </li>
 </ul>
 
