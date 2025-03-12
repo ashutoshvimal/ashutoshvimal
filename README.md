@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <ul>
   <li>🔭 I’m currently a Software developer</li> 
-  <li>🌱 I'm currently learning Java.</li>
-  <li>👯 I’m looking for a software development Job.</li>
+  <li>🌱 I'm currently working in Nucleus software.</li>
+<!--   <li>👯 I’m looking for a software development Job.</li> -->
   <li>📫 How to reach me: <a href="https://www.linkedin.com/in/ashutosh-vimal-1a0432216/">LinkedIn</a> </li>
 </ul>
 
